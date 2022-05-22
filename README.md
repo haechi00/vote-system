@@ -28,7 +28,7 @@ npx hardhat node
 `/vote-system`
 
 ```bash
-npx hardhat --network localhost run scripts/deploy.js
+npx hardhat run script/deploy.js --network localhost
 ```
 
 3. Run the frontend *(New Tab Terminal)*
